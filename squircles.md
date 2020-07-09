@@ -1,5 +1,5 @@
 # Squircles
-While [experimenting](arttopc.md) with [program synthesis](https://en.wikipedia.org/wiki/Program_synthesis), I [found](https://twitter.com/anastasiaopara/status/1256198343740592128) an interesting mathematical curiosity, squircles. Squircle is a curve that interpolates between a square and a circle.
+While [experimenting](arttopc.md) with [program synthesis](https://en.wikipedia.org/wiki/Program_synthesis), I [found](https://twitter.com/ExUtumno/status/1278713838586789889) an interesting mathematical curiosity, [squircles](https://en.wikipedia.org/wiki/Squircle). Squircle is a curve that interpolates between a square and a circle.
 
 The most obvious way to get a squircle is just to linearly interpolate between a square and a circle in polar coordinates. However, the resulting intermediate curves are not smooth!
 <p align="center"><img src="resources/squircles/lerp.gif"></p>
@@ -17,5 +17,5 @@ You could have discovered the Fernández-Guasti squircles by looking at the func
 <p align="center"><img src="resources/squircles/levelsets.gif"></p>
 
 Additional material:
-1. [Original paper](https://www.tandfonline.com/doi/abs/10.1080/0020739920230607) by Fernández-Guasti. Paywalled, can be accessed via Sci-Hub.
-2. Chamberlain Fong, [Squircular Calculations](https://arxiv.org/vc/arxiv/papers/1604/1604.02174v1.pdf).
+1. [Original paper](https://www.tandfonline.com/doi/abs/10.1080/0020739920230607) by Fernández-Guasti. Paywalled, accessible via Sci-Hub.
+2. In [Squircular Calculations](https://arxiv.org/vc/arxiv/papers/1604/1604.02174v1.pdf) Chamberlain Fong generalizes Fernández-Guasti squircle to 3d.
