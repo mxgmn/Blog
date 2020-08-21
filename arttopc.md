@@ -3,7 +3,7 @@
 Experiments in program generation and synthesis.
 
 Season 1 | videos | original | comment
---- | --- | ---
+--- | --- | --- | ---
 [Episode 1](https://twitter.com/ExUtumno/status/1276530276026458113) | [mp4](https://i.imgur.com/Sy9FqHl.mp4), [mp4](https://i.imgur.com/2ss3ULN.mp4) | [2DArray](https://twitter.com/2DArray/status/1183789478185439233) | mapping from plane to colors
 [Episode 2](https://twitter.com/ExUtumno/status/1276567879664709633) | [mp4](https://drive.google.com/file/d/1Ck3DSpnacESk8W3cLl5h49KMultSCxFj/view) | [bjornkri](https://twitter.com/bjornkri/status/1239193587046367232) | surface made of circles
 [Episode 3](https://twitter.com/ExUtumno/status/1278713838586789889) | [mp4](https://i.imgur.com/MwNlFHu.mp4) | [anastasiaopara](https://twitter.com/anastasiaopara/status/1256198343740592128) | integer + fractional part, squircles
