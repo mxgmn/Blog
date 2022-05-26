@@ -14,4 +14,4 @@ Procedural voxel art:
 * [CarmaTower](CarmaTower.md)
 * [Escheresque](Escheresque.md)
 * [PillarsOfEternity](PillarsOfEternity.md)
-* [RandomSurface](Escheresque.md)
+* [RandomSurface](RandomSurface.md)
