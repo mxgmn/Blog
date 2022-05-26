@@ -1,11 +1,17 @@
-## Research
+Research:
 * [Applying random transformations to other people's code](arttopc.md)
 
 
-## Explanations
+Explanations:
 * MJ guide, part 1: ...
 * [Squircles](squircles.md)
 
 
-## Art
+Procedural voxel art:
 * [ModernHouse](ModernHouse.md)
+* [SeaVilla](SeaVilla.md)
+* [Apartemazements](Apartemazements.md)
+* [CarmaTower](CarmaTower.md)
+* [Escheresque](Escheresque.md)
+* [PillarsOfEternity](PillarsOfEternity.md)
+* [RandomSurface](Escheresque.md)

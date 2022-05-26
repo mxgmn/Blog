@@ -1,5 +1,12 @@
-## Generator of modern houses
+# Generator of modern houses
 Code: ...
+
+Twitter thread: [twitter.com/ExUtumno/status/1141354217774428160](https://twitter.com/ExUtumno/status/1141354217774428160)
+
+<p align="center"><img src="images/ModernHouse/other/4.png"/></p>
+<p align="center"><img src="images/ModernHouse/other/6a.png"/></p>
+<p align="center"><img src="images/ModernHouse/other/6b.png"/></p>
+<p align="center"><img src="images/ModernHouse/other/7.png"/></p>
 
 <p align="center"><img src="images/ModernHouse/01.png"/></p>
 <p align="center"><img src="images/ModernHouse/02.png"/></p>
