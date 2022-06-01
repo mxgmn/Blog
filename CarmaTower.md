@@ -1,7 +1,9 @@
 # CarmaTower
 A proceduralization of a [voxel scene](https://twitter.com/Sir_carma/status/851883489628704768) by Antoine Lendrevie.
 
-Code: ...
+MarkovJunior model: [CarmaTower.xml](https://github.com/mxgmn/MarkovJunior/blob/master/models/CarmaTower.xml)
+
+Video: [https://youtu.be/JkbVpskDs6s](https://youtu.be/JkbVpskDs6s)
 
 <p align="center">
 <img src="images/CarmaTower/0.png"/>

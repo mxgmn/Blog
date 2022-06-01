@@ -1,7 +1,11 @@
 # Generator of modern houses
-Code: ...
+MarkovJunior model: [ModernHouse.xml](https://github.com/mxgmn/MarkovJunior/blob/master/models/ModernHouse.xml)
 
 Twitter thread: [twitter.com/ExUtumno/status/1141354217774428160](https://twitter.com/ExUtumno/status/1141354217774428160)
+
+Generation process: [https://www.youtube.com/watch?v=DTdIYa5k2us](https://www.youtube.com/watch?v=DTdIYa5k2us)
+
+Collection of generated results: [https://youtu.be/pjK8HfZb7LA](https://youtu.be/pjK8HfZb7LA)
 
 <p align="center"><img src="images/ModernHouse/other/4.png"/></p>
 <p align="center"><img src="images/ModernHouse/other/6a.png"/></p>

@@ -1,9 +1,11 @@
 # Generator of Sea Villa puzzles
 The player arrives by boat. Goal: grab the shiny blue cube and get back. Wooden bridges collapse after one pass, consoles open gates wired to them. Guaranteed to be solvable and without shortcuts.
 
-Code: ...
+MarkovJunior model: [SeaVilla.xml](https://github.com/mxgmn/MarkovJunior/blob/master/models/SeaVilla.xml)
 
 Twitter thread: [twitter.com/ExUtumno/status/971031987304763393](https://twitter.com/ExUtumno/status/971031987304763393)
+
+Video: [https://youtu.be/L13XOHAV7jg](https://youtu.be/L13XOHAV7jg)
 
 <p align="center"><img src="images/SeaVilla/other/6.png"/></p>
 <p align="center"><img src="images/SeaVilla/other/7.png"/></p>

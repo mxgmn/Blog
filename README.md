@@ -3,7 +3,6 @@ Research:
 
 
 Explanations:
-* MJ guide, part 1: ...
 * [Squircles](squircles.md)
 
 
